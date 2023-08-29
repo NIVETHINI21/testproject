@@ -18,6 +18,7 @@ public class Orange {
 		//URL
 		String url = driver.getCurrentUrl();
 		System.out.println(url);
+	//	url.click();
 	}
 
 }
